@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lightzebra.curefactor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lightzebra.curefactor.MyBundle
 
 class MyApplicationService {
 
